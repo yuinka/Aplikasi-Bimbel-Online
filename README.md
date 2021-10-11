@@ -1,2 +1,2 @@
-# Aplikasi-Bimbel-Online
-Aplikasi bimbel ini dirancang dengan menggunakan metode waterfall
+# Sistem Informasi Akademik Bimbingan belajar
+ Sistem ini dibangun dengan menggunakan metode waterfall

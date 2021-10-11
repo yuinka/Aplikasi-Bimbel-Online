@@ -40,3 +40,12 @@ Proses Kegiatan Siswa
 
 
 ![usecase](https://user-images.githubusercontent.com/91946355/136796311-ea00c88f-d153-4717-83b0-cd825407e788.png)
+
+## DESAIN
+## Desain Sistem
+### Skenario
+![scenario](https://user-images.githubusercontent.com/91958170/136798328-52bd3d48-057c-40ab-bd0f-54e94aefa8f5.png)
+
+
+
+### Use Case Diagram

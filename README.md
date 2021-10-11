@@ -6,7 +6,7 @@
 4.	(5200411386)  Yuana Inka Dewi Br Sinulingga
 
 
-## Analisis Kebutuhan Perangkat Lunak 
+## Analysis Requirement
 
 Program aplikasi merupakan sebuah sistem yang bergerak di bidang pendidikan yang dimana , sistem informasi akademik bimbingan belajar ini akan dibangun dengan menggunakan model waterfall dan menggunakan bahasa pemrograman PHP dengan data  base phpmyadmin  yang dirancang untuk mempermudah dan mempercepat siswa untuk mengetahui jadwal belajar setiap minggunya, seperti hari masuk, jam masuk, bidang study, dll., siswa juga dapat melihat tenggat pembayaran dan dapat melihat capaian belajar/ prestasi yang telah ia raih.
 
@@ -26,9 +26,9 @@ Proses Kegiatan Siswa
 
 
 
-## DESAIN
-## Desain Sistem
-### Skenario
+## DESIGN
+## Design System
+### Scenario
 ![scenario](https://user-images.githubusercontent.com/91958170/136798328-52bd3d48-057c-40ab-bd0f-54e94aefa8f5.png)
 
 
@@ -69,5 +69,5 @@ Pada program pengolahan prestasi berbasis web, komputer yang menjalankan program
 
 
 ## Maintenance
+Pada tahap ini kita akan melakukan pemeliharan aplikasi dengan pemeliharaan korektif dan pemeliharaan perfektif, jika pada tahap testing masih terjadi kesalahan/ kecerobahan.
 
-Apabila masih terdapat bug didalam system maka tim akan melakukan perbaikan serta pemeliharaan system secara rutin.

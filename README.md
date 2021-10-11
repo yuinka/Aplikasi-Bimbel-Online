@@ -38,7 +38,7 @@ Proses Kegiatan Siswa
 
 ### Activity Diagram
 #### Admin
-https://github.com/yuinka/SIA-Bimbel/issues/7#issue-1022722928
+![admin](https://user-images.githubusercontent.com/91946355/136800134-a7fe83cc-47d8-4588-879b-5f32263a7e65.png)
 
 ### Siswa
-https://github.com/yuinka/SIA-Bimbel/issues/5#issue-1022722304
+![siswa](https://user-images.githubusercontent.com/91946355/136800033-fb5241e8-f454-4368-8095-7bf8d5bae776.png)

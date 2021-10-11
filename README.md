@@ -11,15 +11,15 @@
 Program aplikasi merupakan sebuah sistem yang bergerak di bidang pendidikan yang dimana , sistem informasi akademik bimbingan belajar ini akan dibangun dengan menggunakan model waterfall dan menggunakan bahasa pemrograman PHP dengan data  base phpmyadmin  yang dirancang untuk mempermudah dan mempercepat siswa untuk mengetahui jadwal belajar setiap minggunya, seperti hari masuk, jam masuk, bidang study, dll., siswa juga dapat melihat tenggat pembayaran dan dapat melihat capaian belajar/ prestasi yang telah ia raih.
 
 Proses Kegiatan Admin
-	Admin dapat mengupdate segala data mengenai pembelajaran yang akan dilakukan siswa selama seminggu termasuk hari, jam, bidang study, nama pengajar, dan bidang study
-	Admin memanajemen data jadwal tenggat pembayaran biaya bimbel, serta admin dapat menghapus/ menghilangkan hak siswa yang telat melakukan pembayaran untuk mengakses aplikasi
-	Admin juga bertanggung jawab mengolah data siswa.
-	Admin membuat hasil prestasi.
-	Admin bertanggung jawab membuat laporan
+- Admin dapat mengupdate segala data mengenai pembelajaran yang akan dilakukan siswa selama seminggu termasuk hari, jam, bidang study, nama pengajar, dan bidang study
+- Admin memanajemen data jadwal tenggat pembayaran biaya bimbel, serta admin dapat menghapus/ menghilangkan hak siswa yang telat melakukan pembayaran untuk mengakses aplikasi
+- Admin juga bertanggung jawab mengolah data siswa.
+- Admin membuat hasil prestasi.
+-	Admin bertanggung jawab membuat laporan
 
 
 Proses Kegiatan Siswa
-	Siswa dapat melihat jadwal yang akan ia ikuti selama seminggu yaitu jadwal hari, jam, bidang study, nama pengajar, dan materi yang akan dipelajari selama seminggu kedapan.
-	Siswa dapat melihat data
-	Siswa dapat melihat tagihan pembayaran
-	Siswa dapat melihat prestasi 
+-	Siswa dapat melihat jadwal yang akan ia ikuti selama seminggu yaitu jadwal hari, jam, bidang study, nama pengajar, dan materi yang akan dipelajari selama seminggu kedapan.
+-	Siswa dapat melihat data
+-	Siswa dapat melihat tagihan pembayaran
+-	Siswa dapat melihat prestasi 

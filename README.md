@@ -40,5 +40,13 @@ Proses Kegiatan Siswa
 #### Admin
 ![admin](https://user-images.githubusercontent.com/91946355/136800134-a7fe83cc-47d8-4588-879b-5f32263a7e65.png)
 
-### Siswa
+#### Siswa
 ![siswa](https://user-images.githubusercontent.com/91946355/136800033-fb5241e8-f454-4368-8095-7bf8d5bae776.png)
+
+### Normalisasi Tabel
+![normalisasi](https://user-images.githubusercontent.com/91958170/136799689-cc1ea7bd-59dd-4bcf-be08-25b6f0a1c5b4.png)
+
+### ERD
+![erd (2)](https://user-images.githubusercontent.com/91958170/136800082-06a24e10-6a3d-4741-b645-3c11b95937be.png)
+
+## GUI

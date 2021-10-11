@@ -35,3 +35,10 @@ Proses Kegiatan Siswa
 
 ### Use Case Diagram
 ![usecase](https://user-images.githubusercontent.com/91946355/136796311-ea00c88f-d153-4717-83b0-cd825407e788.png)
+
+### Activity Diagram
+#### Admin
+https://github.com/yuinka/SIA-Bimbel/issues/7#issue-1022722928
+
+### Siswa
+https://github.com/yuinka/SIA-Bimbel/issues/5#issue-1022722304

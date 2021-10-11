@@ -64,3 +64,5 @@ Pada program pengolahan prestasi berbasis web, komputer yang menjalankan program
 
 
 ## Maintenance
+
+Apabila masih terdapat bug didalam system maka tim akan melakukan perbaikan serta pemeliharaan system secara rutin.

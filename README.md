@@ -26,21 +26,6 @@ Proses Kegiatan Siswa
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-![usecase](https://user-images.githubusercontent.com/91946355/136796311-ea00c88f-d153-4717-83b0-cd825407e788.png)
-
 ## DESAIN
 ## Desain Sistem
 ### Skenario
@@ -49,3 +34,4 @@ Proses Kegiatan Siswa
 
 
 ### Use Case Diagram
+![usecase](https://user-images.githubusercontent.com/91946355/136796311-ea00c88f-d153-4717-83b0-cd825407e788.png)

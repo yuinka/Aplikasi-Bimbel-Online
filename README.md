@@ -34,7 +34,7 @@ Proses Kegiatan Siswa
 
 
 ### Use Case Diagram
-![usecase](https://user-images.githubusercontent.com/91946355/136796311-ea00c88f-d153-4717-83b0-cd825407e788.png)
+![usecasee](https://user-images.githubusercontent.com/91946355/136909345-a54f71ee-3084-4f41-8954-befcfd227c72.png)
 
 ### Activity Diagram
 #### Admin
@@ -48,6 +48,9 @@ Proses Kegiatan Siswa
 
 ### ERD
 ![erd (2)](https://user-images.githubusercontent.com/91958170/136800082-06a24e10-6a3d-4741-b645-3c11b95937be.png)
+
+### User Interface
+Perancangan interface aplikasi ini dibuat dengan menggunakan inVisioN Studio.
 
 ## Code
 

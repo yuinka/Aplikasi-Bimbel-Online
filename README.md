@@ -29,7 +29,7 @@ Proses Kegiatan Siswa
 ## DESIGN
 ## Design System
 ### Scenario
-![scenario](https://user-images.githubusercontent.com/91958170/136798328-52bd3d48-057c-40ab-bd0f-54e94aefa8f5.png)
+![Scenario1](https://user-images.githubusercontent.com/91958170/136878392-a64e9b2c-9122-415c-8cd0-c77b493de2b3.png)
 
 
 

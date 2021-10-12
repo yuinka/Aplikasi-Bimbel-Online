@@ -59,7 +59,7 @@ Program aplikasi pengolahan prestasi dirancang dan dibangun dengan menggunakan b
 
 ## Testing
 
-Sebelum program diterapkan, maka program harus bebas dari kesalahan. Dan agar bebas dari kesalahan maka perlu dilakukan pengujian untuk menemukan kesalahan yang mungkin dapat terjadi seperti dalam kesalahan bahasa, kesalahan logika program dan kesalahan analisis. Pengujian yang dilakukan pada sistem aplikasi sistem informasi akademik bimbingan belajar ini meliputi pengujian terhadap seluruh menu program, dan proses-proses yang dilakukan oleh aplikasi apakah telah sesuai dengan apa yang diharapkan oleh sistem. Pengujian ini menggunakan Black box testing yang merupakan user testing. Berikut ini salah satu hasil pengujian black box pada sistem pengolahan prestasi siswa:
+Sebelum program diterapkan, maka program harus bebas dari kesalahan. Dan agar bebas dari kesalahan maka perlu dilakukan pengujian untuk menemukan kesalahan yang mungkin dapat terjadi seperti dalam kesalahan bahasa, kesalahan logika program dan kesalahan analisis. Pengujian yang dilakukan pada sistem aplikasi sistem informasi akademik bimbingan belajar ini meliputi pengujian terhadap seluruh menu program, dan proses-proses yang dilakukan oleh aplikasi apakah telah sesuai dengan apa yang diharapkan oleh sistem. Pengujian ini menggunakan Black box testing yang merupakan user testing. Berikut ini salah satu contoh hasil pengujian black box pada sistem pengolahan prestasi siswa:
 
 ![Testing](https://user-images.githubusercontent.com/73601211/136800958-59cf201e-8063-4e6d-aef1-457f15dd1783.png)
 

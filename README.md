@@ -8,7 +8,7 @@
 
 ## Analysis Requirement
 
-Program aplikasi merupakan sebuah sistem yang bergerak di bidang pendidikan yang dimana , sistem informasi akademik bimbingan belajar ini akan dibangun dengan menggunakan model waterfall dan menggunakan bahasa pemrograman PHP dengan data  base phpmyadmin  yang dirancang untuk mempermudah dan mempercepat siswa untuk mengetahui jadwal belajar setiap minggunya, seperti hari masuk, jam masuk, bidang study, dll., siswa juga dapat melihat tenggat pembayaran dan dapat melihat capaian belajar/ prestasi yang telah ia raih.
+Program aplikasi merupakan sebuah sistem yang bergerak di bidang pendidikan. sistem informasi akademik bimbingan belajar ini akan dibangun dengan menggunakan model waterfall dan menggunakan bahasa pemrograman PHP dengan data  base phpmyadmin  yang dirancang untuk mempermudah dan mempercepat siswa untuk mengetahui jadwal belajar setiap minggunya, seperti hari masuk, jam masuk, bidang study, dll., siswa juga dapat melihat tenggat pembayaran dan dapat melihat capaian belajar/ prestasi yang telah ia raih.
 
 Proses Kegiatan Admin
 - Admin dapat mengupdate segala data mengenai pembelajaran yang akan dilakukan siswa selama seminggu termasuk hari, jam, bidang study, nama pengajar, dan bidang study
